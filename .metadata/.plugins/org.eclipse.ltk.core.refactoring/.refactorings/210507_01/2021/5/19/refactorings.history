@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;for_one_To_hundred&apos; to &apos;while_one_To_hundred&apos;&#x0D;&#x0A;- Original project: &apos;210507_01&apos;&#x0D;&#x0A;- Original element: &apos;for_one_To_hundred&apos;&#x0D;&#x0A;- Renamed element: &apos;while_one_To_hundred&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;for_one_To_hundred&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{for_one_To_hundred.java[for_one_To_hundred" matchStrategy="1" name="while_one_To_hundred" qualified="false" references="true" similarDeclarations="false" stamp="1620376147646" textual="false" version="1.0"/>
+</session>

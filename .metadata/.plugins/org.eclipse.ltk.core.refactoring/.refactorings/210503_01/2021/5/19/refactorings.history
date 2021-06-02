@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test_01&apos; to &apos;_add_onebyone&apos;&#x0D;&#x0A;- Original project: &apos;210503_01&apos;&#x0D;&#x0A;- Original element: &apos;test_01&apos;&#x0D;&#x0A;- Renamed element: &apos;_add_onebyone&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;test_01&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{test_01.java[test_01" matchStrategy="1" name="_add_onebyone" qualified="false" references="true" similarDeclarations="false" stamp="1620037191427" textual="false" version="1.0"/>
+</session>
