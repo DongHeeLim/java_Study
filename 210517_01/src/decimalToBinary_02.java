@@ -18,9 +18,5 @@ public class decimalToBinary_02 {
 		for(int i=0; i < bin.length; i++) {
 			
 		}
-		
-		
-
 	}
-
 }
